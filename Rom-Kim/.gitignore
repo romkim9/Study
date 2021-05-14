@@ -1,0 +1,7 @@
+*.dSYM
+
+.vscode/
+
+*.DS_Store
+
+trash/
